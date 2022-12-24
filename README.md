@@ -15,7 +15,7 @@ GitHub Deployed Project Page: https://jonochi.github.io/password-generator/
 
 For users to create a strong, randomized password.
 
-Project screenshot:
+Project screenshot showcasing randomized password:
     
 ![Module 2 project screenshot](/screenshot.png)
 
